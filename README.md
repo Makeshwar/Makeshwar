@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makeshwar K</h1>
 <h3 align="center">Welcome to my GitHub portfolio! I’m a passionate web developer with a strong background in front-end and back-end technologies. I specialize in creating responsive, user-friendly websites and web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makeshwar&label=Profile%20views&color=0e75b6&style=flat" alt="makeshwar" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQFsK7c9EzYt3w/profile-displayphoto-shrink_800_800/0/1707844694710?e=1727913600&v=beta&t=7BSP53D2Rsl_3STTh9O6dqH8jRQm2RAfuREZwnteGzs" alt="Makeshwar" /> </p>
 
 - 🔭 I’m currently working on [Employee Management](https://github.com/Makeshwar/Employee-MS)
 
