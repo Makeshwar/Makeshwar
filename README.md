@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/Makeshwar)
 - 💬 Ask me about **React, Node.js, SQL, Java**
 - 📫 How to reach me **makeshwar2306@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1LRc2f5EfZgpt2PeHMjymWVz6pxOhwjjf/view?usp=drive_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mOrWeBTN8ttlQA982TxiK5Ace-k5UZAy/view?usp=sharing)
 - ⚡ Fun fact: **I can't make you laugh but can make you happy! No, I can't do that either! :)**
 
 <h3 align="left">Connect with me:</h3>
